@@ -5,4 +5,4 @@
 **functions:** functions.py
 
 
-to run the project, use the main file ('four-bar-linkage.ipynb')
+to run the project, use the main file (four-bar-linkage.ipynb)
